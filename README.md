@@ -59,7 +59,7 @@ This project was made with the intention of accelerating the production of proje
     <li>
       <a href="#3D">3D</a>
       <ul>
-        <li><a href="#Ragdoll (Spring Bone)">Ragdoll</a></li>
+        <li><a href="#Ragdoll">Ragdoll (Spring Bone)</a></li>
         <li><a href="#Operations with Vectors 3D">Operations with Vectors 3D</a></li>
         <li><a href="#Spring Bone">Spring Bone</a></li>
       </ul>
@@ -103,7 +103,7 @@ Unity 2019.4.20f1 or newer.
 ### Operations with Vectors 2D
 <a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/2D/Vector2DUtils.cs">Vectors 2D Utils</a>
 ## 3D
-### Ragdoll (Spring Bone)
+### Ragdoll
 <a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/3D/Immersive3DControll.cs">Immersive 3D Controll</a>
 ### Operations with Vectors 3D
 <a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/3D/Vector3DUtils.cs">Vectors 3D Utils</a>
